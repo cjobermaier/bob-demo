@@ -14,7 +14,7 @@ Register dependency to use OpenAI.
 
 **Result:**
 
-Bob registers the LangChain4j OpenAI dependency using the Quarkus MCP Server.
+* Bob registers the LangChain4j OpenAI dependency using the Quarkus MCP Server.
 
 **Follow-up Actions:**
 
