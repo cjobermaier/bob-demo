@@ -14,9 +14,9 @@ Create an AI Service for this application.
 
 **Result:**
 
-Bob creates an AI Service interface with methods tailored to the application, and also creates a REST API Resource class that injects the AI Service and provides an API for external use.
-
-Also, it scaffolds an `application.properties` file with common configuration properties set to dummy values.
+* Bob creates an AI Service interface with methods tailored to the application.
+* * Creates a REST API Resource class that injects the AI Service and provides an API for external use.
+* Scaffolds an `application.properties` file with common configuration properties set to dummy values.
 
 **Follow-up Actions:**
 
