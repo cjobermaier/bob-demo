@@ -32,7 +32,7 @@ Then open IBM Bob IDE and open the `input-documents/quarkus-jakarta-data` projec
 
 Verify that Bob is connected to the Quarkus MCP Server by inspecting the MCP tab:
 
-![Show MCP Servers in IBM Bob](/quarkus-ai-integration/screenshots/bob1.png)
+![Show MCP Servers in IBM Bob](screenshots/bob1.png)
 
 **Outcome:**
 
@@ -48,7 +48,7 @@ Go to the bottom-left dropdown menu and select _Quarkus Developer_ mode.
 
 **Outcome:**
 
-![IBM Bob Mode](/quarkus-ai-integration/Screenshots/bob2.png)
+![IBM Bob Mode](screenshots/bob2.png)
 
 > [!NOTE]
 > Take a look at the folder [input-documents/.bob](/input-documents/.bob) to see the details of the custom mode and the mcp configuration.
